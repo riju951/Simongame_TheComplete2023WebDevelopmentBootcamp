@@ -11,6 +11,19 @@ The Simon Game is a classic memory-based game that challenges players to remembe
 - HTML, CSS, JavaScript
 - jQuery library
 
+  ## Steps Completed in the Challenge
+
+- **Step 1:** Added JavaScript and jQuery, linking an external `game.js` file to handle game logic.
+- **Step 2:** Created a function `nextSequence()` to generate a new pattern randomly.
+- **Step 3:** Displayed the generated sequence to the user using animations and sounds.
+- **Step 4:** Detected user button clicks and stored the sequence.
+- **Step 5:** Added sounds to button clicks.
+- **Step 6:** Added animations to user clicks.
+- **Step 7:** Initiated the game by detecting the first keypress, updating the level display.
+- **Step 8:** Checked the user's answer against the game sequence and handled successful and failed attempts.
+- **Step 9:** Implemented the "Game Over" scenario with sound effects and UI flash effects.
+- **Step 10:** Implemented game restart functionality.
+
 ## Getting Started
 
 To work on or edit the code from GitHub:
